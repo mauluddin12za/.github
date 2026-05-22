@@ -171,6 +171,7 @@ Multi-schema MySQL production setup.
 
 ### AI
 - Gemini AI
+- OpenRouter
 
 ---
 
